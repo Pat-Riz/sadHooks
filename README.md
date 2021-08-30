@@ -3,7 +3,7 @@
 Simple repo for replicating the error.
 All I've done is 
  Setup expo
-   -expo init sadHooks
+  - expo init sadHooks
   - Created blank typescript template
   
  Setup jest according to "https://docs.expo.dev/guides/testing-with-jest/"

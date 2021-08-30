@@ -1,5 +1,11 @@
 # sadHooks
 
+
+# SOLUTION. Don't be a moron.
+SyntaxError at  render(RNcomponent());
+Don't call a React Function component. If you instead do render(<RNComponent/>) everything works. Unfortunally even with a FC everything
+worked fine while rendering a <Text> and <Button> inside the FC. Only when you added hooks things got f¤cked
+
 Simple repo for replicating the error.
 All I've done is 
  Setup expo
